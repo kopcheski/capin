@@ -1,0 +1,11 @@
+- Qual é o nome da entidade que tem Banco e Prestador?
+- Qual é o nome da entidade que tem TipoPessoa e Cbos?
+- Ambiente de teste: 
+	- Endereço dos endpoints?
+- Deve limpar a base cada vez que ocorrer a importação, certo?
+- Rodará por demanda? Precisa que seja agendado?
+
+TODO:
+[ ] url, usuario e senha de banco configurável
+[ ] logging
+[ ] empacotar driver do oracle
